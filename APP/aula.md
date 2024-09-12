@@ -39,9 +39,9 @@ Apresentar os dados
 
 ## Estruturas de dados:
 
-### Arrays: 
+### Arrays:
 
-- [x] Uma lista que contém qualquer tipo de dado 
+- [x] Uma lista que contém qualquer tipo de dado
 
 ### Objetos:
 
